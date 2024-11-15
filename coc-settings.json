@@ -1,0 +1,6 @@
+{
+ "python.analysis.typeCheckingMode":"off",
+ "suggest.enablePreselect":false,
+ "python.analysis.useLibraryCodeForTypes":false,
+ "suggest.detailField":"abbr"
+}
